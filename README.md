@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ErnestAu
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
 - 💞️ I’m open to collaborate! Hit me up!
 - 📫 You can reach me on linkedin.com/in/ernestyueweiau/
 
