@@ -9,4 +9,4 @@ right now i'm at **ey** as a data engineer working on etl and cloud data infrast
 
 ---
 
-📫 [linkedin](https://linkedin.com/in/ernestyueweiau/)
+📫 [linkedin](https://linkedin.com/in/ernestywau/)
