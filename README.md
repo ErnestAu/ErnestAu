@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ErnestAu
-- 💞️ I’m open to collaborate! Hit me up!
-- 📫 You can reach me on linkedin.com/in/ernestyueweiau/
+# hey, i'm ernest 👋
 
-<!---
-ErnestAu/ErnestAu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i like working with data. still tring to figure out how it all works.
+
+right now i'm at **ey** as a data engineer working on etl and cloud data infrastructure. before that i was at **delivery hero (foodpanda)** as a data analytics engineer.
+
+### what i work with
+`python` `pyspark` `spark sql` `databricks` `aws (s3, glue, redshift)` `bigquery` `dbt` `sql` `tableau` `power bi`
+
+---
+
+📫 [linkedin](https://linkedin.com/in/ernestyueweiau/)
