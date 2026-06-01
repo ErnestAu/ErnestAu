@@ -1,4 +1,4 @@
-# hey, i'm ernest 👋
+# hey, i'm ernest! 👋
 
 i like working with data. still tryna figure out how it all works.
 
